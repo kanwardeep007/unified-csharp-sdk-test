@@ -14,8 +14,6 @@ targets:
         sourceNamespace: my-source
         sourceRevisionDigest: sha256:f1d55d3b61079db18f3e6ca50913a6f2b4fd9f173da7219a814679a1bcf5b2cb
         sourceBlobDigest: sha256:a954dbf76a918381b8dfbcb2f62e7d3f82cb8773bce2f24d188ae7b2a39396fe
-        codeSamplesNamespace: my-source-csharp-code-samples
-        codeSamplesRevisionDigest: sha256:6d7e34a64c3832a18703586239d92b910677cb56aef1d2677721ae2ef1c4d75d
 workflow:
     workflowVersion: 1.0.0
     speakeasyVersion: latest

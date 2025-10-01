@@ -5,9 +5,9 @@ management:
   docVersion: "1.0"
   speakeasyVersion: 1.568.0
   generationVersion: 2.632.2
-  releaseVersion: 0.76.0
-  configChecksum: 7df3a9afdd6d39ee38802a9218325c53
-  repoURL: https://github.com/unified-to/unified-csharp-sdk.git
+  releaseVersion: 0.78.0
+  configChecksum: 33f3c0ab80d085feee6ebfc61f575592
+  repoURL: https://github.com/kanwardeep007/unified-csharp-sdk-test.git
   repoSubDirectory: .
   published: true
 features:
@@ -7690,7 +7690,3 @@ examples:
           application/json: {"status": "ON_HOLD", "ticket_ref": "<value>", "title": "<value>", "workspace_id": "<id>"}
 examplesVersion: 1.0.2
 generatedTests: {}
-releaseNotes: |
-  ## Csharp SDK Changes Detected:
-  * `UnifiedTo.Unified.GetUnifiedIssue()`: **Added**
-  * `UnifiedTo.Issue.GetUnifiedIssue()`: **Added**

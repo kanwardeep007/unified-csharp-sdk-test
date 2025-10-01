@@ -3,11 +3,11 @@
   <PropertyGroup>
     <IsPackable>true</IsPackable>
     <PackageId>UnifiedTo</PackageId>
-    <Version>0.76.0</Version>
+    <Version>0.78.0</Version>
     <TargetFramework>net6.0</TargetFramework>
     <Authors>Unified API Inc.</Authors>
     <Copyright>Copyright (c) Unified API Inc. 2025</Copyright>
-    <RepositoryUrl>https://github.com/unified-to/unified-csharp-sdk.git</RepositoryUrl>
+    <RepositoryUrl>https://github.com/kanwardeep007/unified-csharp-sdk-test.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <Description>Unified.to API: One API to Rule Them All</Description>
   </PropertyGroup>
