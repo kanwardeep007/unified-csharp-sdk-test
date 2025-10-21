@@ -5,8 +5,8 @@ management:
   docVersion: "1.0"
   speakeasyVersion: 1.568.0
   generationVersion: 2.632.2
-  releaseVersion: 0.80.0
-  configChecksum: be984037d07d65411e8251864ddc8959
+  releaseVersion: 0.82.0
+  configChecksum: 166653b3e16e2a119418c704f9fff214
   repoURL: https://github.com/kanwardeep007/unified-csharp-sdk-test.git
   repoSubDirectory: .
   published: true
