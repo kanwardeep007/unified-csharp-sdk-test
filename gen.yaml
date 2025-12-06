@@ -16,10 +16,12 @@ generation:
     oAuth2PasswordEnabled: false
   baseServerURL: ""
   flattenGlobalSecurity: true
+  persistentEdits: {}
+  requestBodyFieldName: ""
   schemas:
     allOfMergeStrategy: shallowMerge
 csharp:
-  version: 0.82.0
+  version: 0.84.0
   additionalDependencies: []
   author: Unified API Inc.
   baseErrorName: UnifiedToError
@@ -42,9 +44,11 @@ csharp:
       shared: Models/Components
       webhooks: Models/Webhooks
   includeDebugSymbols: false
+  inferUnionDiscriminators: false
   inputModelSuffix: input
   maxMethodParams: 4
   methodArguments: infer-optional-args
+  multipartArrayFormat: legacy
   outputModelSuffix: output
   packageName: UnifiedTo
   packageTags: ""
