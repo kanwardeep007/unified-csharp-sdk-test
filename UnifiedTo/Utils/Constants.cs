@@ -22,12 +22,12 @@ namespace UnifiedTo.Utils
         /// <summary>
         /// The version of the SDK.
         /// </summary>
-        public const string SdkVersion = "0.87.0";
+        public const string SdkVersion = "0.89.0";
 
         /// <summary>
         /// The version of the SDK generator used to create this SDK.
         /// </summary>
-        public const string SdkGenVersion = "2.772.0";
+        public const string SdkGenVersion = "2.774.0";
 
         /// <summary>
         /// The version of the OpenAPI document used to generate this SDK.
