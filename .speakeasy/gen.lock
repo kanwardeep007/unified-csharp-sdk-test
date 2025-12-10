@@ -5,8 +5,8 @@ management:
   docVersion: "1.0"
   speakeasyVersion: 1.568.0
   generationVersion: 2.632.2
-  releaseVersion: 0.90.0
-  configChecksum: 15e98db240e4774e3f9bac67f0763c5f
+  releaseVersion: 0.92.0
+  configChecksum: 2610952f666623850f608abf11cc399f
   repoURL: https://github.com/kanwardeep007/unified-csharp-sdk-test.git
   repoSubDirectory: .
   published: true
@@ -7691,9 +7691,9 @@ examples:
 examplesVersion: 1.0.2
 generatedTests: {}
 persistentEdits:
-  generation_id: 8df04dab-cecf-4b28-a074-42892fd39c54
-  pristine_commit_hash: 16f03979b5efd1daa243d80a323a83f900632147
-  pristine_tree_hash: f8f95af65d913eb134515fd5fcc5a480ee39cee7
+  generation_id: cb112e82-b2da-4d1c-85b5-dcdc1c26b026
+  pristine_commit_hash: 55d5fb3dadbc537abda3c76acd1209426bbf85e5
+  pristine_tree_hash: dbc95639a3e666543662247d9e7a33b9ec9924b7
 trackedFiles:
   .gitattributes:
     id: 24139dae6567
@@ -13777,8 +13777,8 @@ trackedFiles:
     pristine_git_object: 67a2f39b3a481cfbe4bd7b53bc56d5b134e59328
   UnifiedTo/SDKConfig.cs:
     id: 09cceb5aefba
-    last_write_checksum: sha1:e407215588fc12d2d74b806d3440c713afd1f8e5
-    pristine_git_object: 859061def9641b809d66907ff2cc860145fec073
+    last_write_checksum: sha1:bcaf11d075750adbf83413a1d32fa922d03d7e15
+    pristine_git_object: 0bf696501617e762c39b8d61cf3ecefee66fe55f
   UnifiedTo/Salesorder.cs:
     id: cb30d4ed52e2
     last_write_checksum: sha1:ca30d21e96ce16e935a26deebee932cf0ea505d1
@@ -13849,8 +13849,8 @@ trackedFiles:
     pristine_git_object: e127c797cdc3bbe96eda9605ff895ce3eedce8bb
   UnifiedTo/UnifiedTo.csproj:
     id: f6547b4d0755
-    last_write_checksum: sha1:b77b5f842ec10f15fb81bcb528dd999bae1e1349
-    pristine_git_object: 9ec81f5a8a4ecbd0783b53ebd6c6ed97521c5304
+    last_write_checksum: sha1:5a871b0b85892eb4b0ba99649c440748de7e5603
+    pristine_git_object: a5e00009750e396d152166a47b3e605518bc85da
   UnifiedTo/UnifiedToSDK.cs:
     id: 1cd9e95575c5
     last_write_checksum: sha1:4600e107313cb08edbb52cb5012829c00d496326
@@ -13869,8 +13869,8 @@ trackedFiles:
     pristine_git_object: 91a7e3528f22deb98cae5dc6801c1917efa6be58
   UnifiedTo/Utils/Constants.cs:
     id: 250092c1ed41
-    last_write_checksum: sha1:fbbb785e1214c0c58e4c376049be4dc4d71efec5
-    pristine_git_object: e515d4f5867f16a9e704077b19f16c70075ea1f8
+    last_write_checksum: sha1:1684037d34a60443e701f05f9b163da514c9821e
+    pristine_git_object: 178489a55fa9c18ecdb29221fa15b2b29b5cbcc1
   UnifiedTo/Utils/DecimalStrConverter.cs:
     id: eb575c2baa28
     last_write_checksum: sha1:d6c99edc6f5d86d26e3b75706fb367af143a1305
