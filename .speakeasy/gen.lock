@@ -5,8 +5,8 @@ management:
   docVersion: "1.0"
   speakeasyVersion: 1.568.0
   generationVersion: 2.632.2
-  releaseVersion: 0.92.0
-  configChecksum: 2610952f666623850f608abf11cc399f
+  releaseVersion: 0.92.1
+  configChecksum: baa666349a9122c933aa0915a4739400
   repoURL: https://github.com/kanwardeep007/unified-csharp-sdk-test.git
   repoSubDirectory: .
   published: true
@@ -13777,7 +13777,7 @@ trackedFiles:
     pristine_git_object: 67a2f39b3a481cfbe4bd7b53bc56d5b134e59328
   UnifiedTo/SDKConfig.cs:
     id: 09cceb5aefba
-    last_write_checksum: sha1:bcaf11d075750adbf83413a1d32fa922d03d7e15
+    last_write_checksum: sha1:51eb48bdb9cbe96092ff93f0fc76983dcea6446b
     pristine_git_object: 0bf696501617e762c39b8d61cf3ecefee66fe55f
   UnifiedTo/Salesorder.cs:
     id: cb30d4ed52e2
@@ -13849,7 +13849,7 @@ trackedFiles:
     pristine_git_object: e127c797cdc3bbe96eda9605ff895ce3eedce8bb
   UnifiedTo/UnifiedTo.csproj:
     id: f6547b4d0755
-    last_write_checksum: sha1:5a871b0b85892eb4b0ba99649c440748de7e5603
+    last_write_checksum: sha1:00381c7063698900042a372b3a53a291c657ed28
     pristine_git_object: a5e00009750e396d152166a47b3e605518bc85da
   UnifiedTo/UnifiedToSDK.cs:
     id: 1cd9e95575c5
@@ -13869,7 +13869,7 @@ trackedFiles:
     pristine_git_object: 91a7e3528f22deb98cae5dc6801c1917efa6be58
   UnifiedTo/Utils/Constants.cs:
     id: 250092c1ed41
-    last_write_checksum: sha1:1684037d34a60443e701f05f9b163da514c9821e
+    last_write_checksum: sha1:0c2cd1f1ad0f6c3c81987a7f1b42ddce5af54d4b
     pristine_git_object: 178489a55fa9c18ecdb29221fa15b2b29b5cbcc1
   UnifiedTo/Utils/DecimalStrConverter.cs:
     id: eb575c2baa28
